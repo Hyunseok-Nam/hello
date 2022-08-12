@@ -3,7 +3,7 @@
 
 import random
 
-# 음식 리스트 중에서
+# 음식리스트 중에서
 foodlist = ["짜장면", "스시", "피자", "치킨", "커리"]
 # print(foodlist[2])
 
